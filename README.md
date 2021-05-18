@@ -33,6 +33,7 @@ _Tutorial from Stephen Grider's Udemy course: ["React and Typescript: Build a Po
   - [react-resizable](https://www.npmjs.com/package/react-resizable): Widget that can resize components
   - [@uiw/react-md-editor](https://www.npmjs.com/package/@uiw/react-md-editor): Markdown editor
   - [immer](https://www.npmjs.com/package/immer): Produce immutable state - used with Redux
+  - [@fortawesome/fontawesome-free](https://www.npmjs.com/package/@fortawesome/fontawesome-free): Fontawesome icons
 - [How to use the debounce function in React](4-jbook/src/components/code-cell.tsx)
 - [How to prevent event bubbling using useRef](4-jbook/src/components/text-editor.tsx)
 - [How to create random ID without using a library](4-jbook/src/state/reducers/cellsReducer.ts)
