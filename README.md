@@ -34,6 +34,8 @@ _Tutorial from Stephen Grider's Udemy course: ["React and Typescript: Build a Po
   - [@uiw/react-md-editor](https://www.npmjs.com/package/@uiw/react-md-editor): Markdown editor
   - [immer](https://www.npmjs.com/package/immer): Produce immutable state - used with Redux
   - [@fortawesome/fontawesome-free](https://www.npmjs.com/package/@fortawesome/fontawesome-free): Fontawesome icons
+  - [lerna](https://www.npmjs.com/package/lerna): Managing JS projects with multiple package
+  - [commander](https://www.npmjs.com/package/commander): Command-line interfaces for node.js
 - [How to use the debounce function in React](4-jbook/src/components/code-cell.tsx)
 - [How to prevent event bubbling using useRef](4-jbook/src/components/text-editor.tsx)
 - [How to create random ID without using a library](4-jbook/src/state/reducers/cellsReducer.ts)
